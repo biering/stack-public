@@ -1,6 +1,6 @@
 # STACK
 
-![alt](./assets/images/logo-grey.png "logo")
+![alt](./assets/images/logo_banner.png "logo")
 
 > A key-value based writer
 
