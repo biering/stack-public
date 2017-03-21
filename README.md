@@ -8,4 +8,4 @@ If you have questions, bugs to be reported or suggestions use the [issue section
 
 ![img01](./assets/images/screenshots/s1.png "s1")
 ![img02](./assets/images/screenshots/s2.png "s2")
-![img03](./assets/images/screenshots/s3.png "s3")
+![img03](./assets/images/screenshots/s4.png "s3")
