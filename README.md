@@ -1,10 +1,10 @@
+Check out the new overhauled version of Stack at [https://get-stack.com](https://get-stack.com)?
+
 ![Stack](./assets/images/logo_banner.png "Stack")
 
 > A key-value based writer
 
 Website: [http://stack-writer.com](http://stack-writer.com) | Public repository of **STACK**.
-
-Did you saw my overhauled new version of Stack? Check it out at [https://get-stack.com](https://get-stack.com)?
 
 If you have questions, bugs to be reported or suggestions use the [issue section](https://github.com/chryb/stack-public/issues).
 
