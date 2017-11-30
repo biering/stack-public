@@ -1,4 +1,4 @@
-Check out the new overhauled version of Stack at [https://get-stack.com](https://get-stack.com)?
+Check out the new overhauled version of Stack at [https://get-stack.com](https://get-stack.com)!
 
 ![Stack](./assets/images/logo_banner.png "Stack")
 
